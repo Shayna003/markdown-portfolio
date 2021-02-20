@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+Emojis
+- :tada:
+- :sparkle:
+- :fire:
+  - :smile:
+ 
+ 1. :laughing:
+ 2. :bowtie:
+
